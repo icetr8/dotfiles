@@ -1,0 +1,1 @@
+/home/angelo/.bash_logout
