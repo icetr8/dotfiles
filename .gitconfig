@@ -1,0 +1,8 @@
+
+[color]
+        ui = true
+[user]
+        name = angelo suinan
+        email = suinanangelo@gmail.com
+[core]
+        editor = vim

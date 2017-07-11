@@ -6,3 +6,5 @@
 3. cd dotfiles
 4. ./setup.sh
 5. open vim and type command :PlugInstall
+6. cd ~/.vim/plugged/YouCompleteMe \
+    ./install.py --clang-completer
